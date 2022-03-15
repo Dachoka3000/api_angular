@@ -2,26 +2,35 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.6.
 
-## Development server
+## Author
+Machoka Daisy
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## Description
+This is a web app for displaying recipes. It allows users to view, add and edit recipes
 
-## Code scaffolding
+## Technologies used
+Typescript
+HTML
+Bootstrap
+CSS
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## BDD
+Open the link in any web browser. Fill in the form to add your own recipe; and view recipes on the homepage
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+## Setup Instructions
+Open the live link in any web browser to interact with the app.
+Also, install angular cli, typescript and node.js on your terminal,
+Git clone https://github.com/MachokaDaisy/api-angular.git on your terminal, and open the folders in your editor. 
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+## Contributions
+For any contributions, visit https://github.com/MachokaDaisy/api-angular.git. Feel free to contact me at machokadaisy@github.com
+
+## License
+[![License:MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+Copyright (c) 2022 **Machoka Daisy**

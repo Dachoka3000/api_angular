@@ -14,7 +14,7 @@ export class AddrecipeComponent implements OnInit {
     method: ''
   };
   submitted = false;
-  constructor(private recipeService) { }
+  constructor(private recipeService:RecipeService) { }
 
   ngOnInit(): void {
   }
